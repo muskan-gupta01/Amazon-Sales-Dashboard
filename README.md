@@ -1,46 +1,56 @@
 # 📊 Amazon Sales Dashboard | Power BI
 
-An interactive **Amazon Sales Dashboard** developed using **Microsoft Power BI** to analyze sales performance, customer behavior, product categories, payment methods, and order status across multiple countries.
-
-The dashboard provides dynamic filtering and visual insights to support data-driven business decisions.
+An interactive **Amazon Sales Dashboard** built using **Microsoft Power BI** to analyze sales performance, customer behavior, product categories, payment methods, and order status across multiple countries.
 
 ---
 
-# Dashboard Preview
+# 📷 Dashboard Preview
 
-## 🌍 Overall Sales Dashboard
+## 🌍 Overall Dashboard
 
-![Overall Dashboard](images/dashboard1.png)
+![Overall Dashboard](image/dashboard1%20(3).png)
 
 ---
 
 ## 🇮🇳 India Dashboard
 
-![India Dashboard](images/dashboard2.png)
+![India Dashboard](image/dashboard2%20(4).png)
 
 ---
 
 ## 🇦🇺 Australia Dashboard
 
-![Australia Dashboard](images/dashboard3.png)
+![Australia Dashboard](image/dashboard3%20(2).png)
 
 ---
 
 ## 🇺🇸 United States Dashboard
 
-![United States Dashboard](images/dashboard4.png)
+![United States Dashboard](image/dashboard4%20(1).png)
 
 ---
 
-# Project Overview
+# 📌 Project Overview
 
-This dashboard was created to visualize and analyze Amazon sales data through interactive reports and business intelligence techniques.
-
-Users can filter data by country and instantly view key sales metrics, product performance, customer information, payment trends, and monthly sales.
+This Power BI dashboard provides an interactive visualization of Amazon sales data. It helps analyze sales performance, customer behavior, product categories, monthly trends, payment methods, and order status. Users can switch between different countries to compare business performance.
 
 ---
 
-# Key Performance Indicators (KPIs)
+# ✨ Features
+
+- Interactive Country Filter
+- Dynamic KPI Cards
+- Sales by Category
+- Customer-wise Sales Analysis
+- Product Revenue Analysis
+- Monthly Sales Trend
+- Payment Method Analysis
+- Order Status Distribution
+- Responsive Power BI Dashboard
+
+---
+
+# 📈 Key Performance Indicators (KPIs)
 
 - 📦 Total Orders
 - 💰 Total Sales
@@ -51,9 +61,17 @@ Users can filter data by country and instantly view key sales metrics, product p
 
 ---
 
-# Dashboard Features
+# 📊 Dashboard Visualizations
+
+### 🌍 Country Filter
+
+- All Countries
+- India
+- Australia
+- United States
 
 ### 📦 Sales by Category
+
 - Electronics
 - Books
 - Clothing
@@ -61,28 +79,19 @@ Users can filter data by country and instantly view key sales metrics, product p
 - Sports & Outdoors
 - Toys & Games
 
----
-
 ### 👤 Customer Analysis
 
 - Top Customers
-- Customer-wise Sales
-
----
+- Customer Sales Comparison
 
 ### 📦 Product Analysis
 
 - Best Selling Products
-- Product Revenue Comparison
+- Product Revenue
 
----
-
-### 📈 Monthly Sales Trend
+### 📅 Monthly Sales Trend
 
 - Month-wise Sales Performance
-- Sales Growth Analysis
-
----
 
 ### 💳 Payment Method Analysis
 
@@ -92,9 +101,7 @@ Users can filter data by country and instantly view key sales metrics, product p
 - Amazon Pay
 - Net Banking
 
----
-
-### 🚚 Order Status Analysis
+### 🚚 Order Status
 
 - Delivered
 - Shipped
@@ -104,41 +111,28 @@ Users can filter data by country and instantly view key sales metrics, product p
 
 ---
 
-### 🌎 Country Filter
-
-Interactive slicer available for:
-
-- All Countries
-- India
-- Australia
-- United States
-
-Users can instantly switch between countries to compare sales performance.
-
----
-
-# Tools & Technologies
+# 🛠️ Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
 - DAX
-- Data Modeling
 - Microsoft Excel
+- Data Modeling
 
 ---
 
-# Business Insights
+# 💡 Business Insights
 
-- Electronics generated the highest revenue.
+- Electronics generated the highest revenue among all categories.
 - Delivered orders account for the majority of total orders.
 - Credit Card is the most preferred payment method.
-- Monthly sales remained relatively stable with minor fluctuations.
-- Customer and product analysis helps identify top-performing products and buyers.
-- Country filters enable quick regional performance comparison.
+- Monthly sales remained consistent with slight fluctuations.
+- Country-level filtering allows easy comparison of regional performance.
+- Customer and product analysis helps identify top-performing customers and products.
 
 ---
 
-# Repository Structure
+# 📁 Repository Structure
 
 ```
 Amazon-Sales-Dashboard/
@@ -146,43 +140,44 @@ Amazon-Sales-Dashboard/
 ├── Amazon Sales Dashboard.pbix
 ├── Amazon_Sales_Dataset.xlsx
 ├── README.md
-└── images/
-    ├── dashboard1.png
-    ├── dashboard2.png
-    ├── dashboard3.png
-    └── dashboard4.png
+└── image/
+    ├── dashboard1 (3).png
+    ├── dashboard2 (4).png
+    ├── dashboard3 (2).png
+    ├── dashboard4 (1).png
 ```
 
 ---
 
-# Dataset
+# 📂 Dataset
 
-The dashboard uses Amazon sales transaction data containing information such as:
+The dataset contains Amazon sales transaction details, including:
 
-- Orders
-- Customers
-- Products
-- Categories
-- Countries
-- Payment Methods
-- Sales Amount
+- Order ID
+- Customer Name
+- Product
+- Category
+- Country
 - Quantity
+- Sales Amount
+- Payment Method
 - Order Status
+- Order Date
 
 ---
 
-# Future Improvements
+# 🚀 Future Improvements
 
-- Regional Sales Map
+- Sales Forecasting
 - Profit Analysis
-- Forecasting
+- Regional Sales Map
 - Customer Segmentation
 - Drill-through Reports
 - Advanced DAX Measures
 
 ---
 
-# Author
+# 👩‍💻 Author
 
 **Muskan Gupta**
 
@@ -190,4 +185,4 @@ GitHub: https://github.com/muskan-gupta01
 
 ---
 
-## ⭐ If you found this project useful, consider giving this repository a Star.
+## ⭐ If you found this project helpful, please consider giving this repository a Star.
