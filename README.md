@@ -181,8 +181,10 @@ The dataset contains Amazon sales transaction details, including:
 
 **Muskan Gupta**
 
-GitHub: https://github.com/muskan-gupta01
+🎓 College Student | Data Analytics & Power BI Enthusiast
 
+- **GitHub:** https://github.com/muskan-gupta01
+- **LinkedIn:** https://www.linkedin.com/in/muskan-gupta-551293386/
 ---
 
 ## ⭐ If you found this project helpful, please consider giving this repository a Star.
